@@ -1,0 +1,4 @@
+[root]
+name = "concurrent_ngrams"
+version = "0.0.1"
+
